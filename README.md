@@ -16,10 +16,7 @@
 - Import SQL File dari folder database (gunakan yang umn-bus-baru)
 
 ## Author
-- [Jericho Siahaya]( https://github.com/jerichosiahaya )
-- [Ricky Ng]( https://github.com/rickyreplying )
-- [Darren Riota]( https://github.com/VDarrenRiota )
-- [Chezar Ramadhan]( https://github.com/Chezar17 ) (membuat logo)
+- [Suningrat]( https://github.com/soeningrat )
 
 ## Documentation
 - Login Page
@@ -29,13 +26,13 @@
 - Pesan Tiket
 ![Pesan Tiket](images/documentation/pesantiket.png)
 - Digital Ticket
-![Digital Ticket](images/documentation/lihattiket.png)
+![Digital Ticket](images/documentation/cetaktiket.png)
 - Lihat Tiket
-![Tiket](images/documentation/lihatdaftartiket.png)
+![Tiket](images/documentation/lihattiket.png)
 - Batalkan Tiket
-![Batalkan Tiket](images/documentation/batalkantiket.png)
+![Batalkan Tiket](images/documentation/bataltiket.png)
 - Jadwal Bus
-![Jadwal Bus](images/documentation/jadwaltiket.png)
+![Jadwal Bus](images/documentation/jadwalbus.png)
 
 
 #### <i>Major Update<i>
