@@ -26,9 +26,9 @@
 - Pesan Tiket
 ![Pesan Tiket](images/documentation/pesantiket.png)
 - Digital Ticket
-![Digital Ticket](images/documentation/lihattiket.png)
+![Digital Ticket](images/documentation/cetaktiket.png)
 - Lihat Tiket
-![Tiket](images/documentation/cetaktiket.png)
+![Tiket](images/documentation/lihattiket.png)
 - Batalkan Tiket
 ![Batalkan Tiket](images/documentation/bataltiket.png)
 - Jadwal Bus
